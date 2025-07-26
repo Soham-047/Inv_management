@@ -11,6 +11,7 @@ A lightweight backend application to manage inventory for a small business. This
 - 🔁 Update product quantities
 - 📦 Get list of products with their details
 - 📘 Swagger & Postman API documentation
+- 🐳 Dockerization of the App
 - 🧪 Scripted API Testing
 - 🛠️ Built with simplicity and clean code in mind
 
