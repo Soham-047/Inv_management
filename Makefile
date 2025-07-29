@@ -15,6 +15,9 @@ restart:
 
 shell:
 	docker-compose exec web sh
+	
+makemigrate:
+	docker-compose exec web python manage.py makemigrations
 
 migrate:
 	docker-compose exec web python manage.py migrate
