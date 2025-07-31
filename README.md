@@ -93,9 +93,6 @@ This project is fully containerized using **Docker** and **Docker Compose**, all
     Redoc:
     URL: http://localhost:8080/redoc/
 
-    Postman:
-    Import the provided postman_collection.json file from the repo.
-
 🧪 Testing the API
 You can test the complete API workflow using the provided script:
 
